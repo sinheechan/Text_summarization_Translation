@@ -12,7 +12,7 @@ OpenAPI 논문, 기사, 글 요약 및 번역을 진행하며 각 모델의 성�
 이제현, 유시현, 김창기, 김현구, "Open API를 활용한 고속 논문 분석",
 실용인공지능학회지 vol.1 p.9, 2022
 
-## Dataset
+## Dataset_Full Text
 
 https://arxiv.org/pdf/1706.03762.pdf
 
@@ -27,6 +27,8 @@ https://arxiv.org/pdf/1706.03762.pdf
 **[ TLDRThis ]**
 - https://rapidapi.com/tldrthishq-tldrthishq-default/api/tldrthis/
 
+## Best_model_Summary
+
+
 ## Result
 
-- 
