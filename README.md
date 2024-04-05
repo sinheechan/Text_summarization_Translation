@@ -6,7 +6,9 @@ OpenAPI를 이용한 논문, 기사, 글 요약 및 번역
 
 본 과정의 레퍼런스로 활용한 "Open API를 활용한 고속 논문 분석"에서 총 4가지 인공지능 모델이 제시된다.
 
-위 4개의 모델 중 Article 2개 모델 Human-like Summarization, Extractive Summarization 각 모델의 성능 테스트 결과 비교 및 Best_model을 선별한다.
+위 4개의 모델 중 Human-like Summarization, Extractive Summarization 
+
+2개 Article 기반 모델의 성능 테스트 결과 비교 및 Best_model을 선별한다.
 
 ## Reference
 
