@@ -37,6 +37,6 @@ https://zrr.kr/5iXJ
 
 ## Result
 
-- Human-like Article Summarization : 전문용어에 대한 요점 인식이 다소 취약하나 간결한 요약에 최적화되어 간단한 칼럼 요약 시 활용을 권장
+- Human-like Article Summarization : 전문용어에 대한 인식이 다소 취약하나 간결한 요약에 최적화되어 간단한 칼럼 요약 시 활용을 권장
 - Extractive Article Summarization : 문단별로 그룹화하여 요약하는 경향이 있어 앞선 첫번 째 모델보다 상세정보를 출력하는데 강점이 있다.
 
