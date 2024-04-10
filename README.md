@@ -1,6 +1,6 @@
 # Text_summarization_Translation
 
-OpenAPI를 이용한 논문, 기사 등 텍스트 기반 요약 및 번역 모델 생성
+OpenAPI를 이용한 논문, 기사 등 텍스트 기반 요약 및 번역 모델 구축
 <br /><br /> 
 <img src="Dataset/data_news.png">
 
